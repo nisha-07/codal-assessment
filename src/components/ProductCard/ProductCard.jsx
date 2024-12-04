@@ -15,7 +15,7 @@ const ProductCard = ({ product }) => {
                 From
                 <p className={classes.price}>${product.price}</p>
             </div>
-            <button className={classes.button}>VIEW PRODUCT</button>
+            <button className={classes.button} onClick={() => alert(`${product.name} product is viewed`)}>VIEW PRODUCT</button>
 		</div>
 	)
 }
