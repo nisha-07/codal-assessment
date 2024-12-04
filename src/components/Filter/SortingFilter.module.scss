@@ -1,0 +1,25 @@
+.sorting-filter {
+	display: flex;
+	align-items: center;
+}
+
+.label {
+	font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-semibold);
+	margin-right: 12px;
+}
+
+.select {
+	padding: 9px;
+	border: 1px solid gray;
+	background: white;
+	color: gray;
+	border-radius: 2px;
+	font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-normal);
+}
+
+
+.select:focus-visible {
+	outline: none;
+}

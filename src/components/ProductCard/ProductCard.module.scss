@@ -1,0 +1,45 @@
+.card {
+    padding: 24px 18px;
+    border: 1px solid gray;
+    width: 330px;
+}
+
+.brand {
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-bold);
+}
+
+.name {
+    margin: 0;
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+}
+
+.sku {
+    margin-top: 36px;
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-normal);
+    color: gray;
+    
+    span {
+        color: #2aa578;
+        margin-left: 8px;
+    }
+}
+
+.price {
+    margin: 0;
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-bold);
+}
+
+.button {
+    width: -webkit-fill-available;
+    background: #fcb044;
+    color: black;
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-semibold);
+    border: 0;
+    padding: 16px;
+    margin: 12px 0;
+}

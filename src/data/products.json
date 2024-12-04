@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Running Shoes",
+        "brand": "Nike",
+        "sku": "NIKE-RS-001",
+        "isMultiSizeAvailable": true,
+        "price": 120
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "brand": "Apple",
+        "sku": "APPLE-SM-002",
+        "isMultiSizeAvailable": false,
+        "price": 999
+    },
+    {
+        "id": 3,
+        "name": "T-Shirt",
+        "brand": "Adidas",
+        "sku": "ADIDAS-TS-003",
+        "isMultiSizeAvailable": true,
+        "price": 35
+    },
+    {
+        "id": 4,
+        "name": "Wrist Watch",
+        "brand": "Casio",
+        "sku": "CASIO-WW-004",
+        "isMultiSizeAvailable": false,
+        "price": 150
+    },
+    {
+        "id": 5,
+        "name": "Backpack",
+        "brand": "Samsonite",
+        "sku": "SAMSONITE-BP-005",
+        "isMultiSizeAvailable": false,
+        "price": 80
+    },
+    {
+        "id": 6,
+        "name": "Gaming Laptop",
+        "brand": "Dell",
+        "sku": "DELL-GL-006",
+        "isMultiSizeAvailable": false,
+        "price": 1500
+    },
+    {
+        "id": 7,
+        "name": "Wireless Earbuds",
+        "brand": "Samsung",
+        "sku": "SAMSUNG-WE-007",
+        "isMultiSizeAvailable": false,
+        "price": 199
+    },
+    {
+        "id": 8,
+        "name": "Sunglasses",
+        "brand": "Ray-Ban",
+        "sku": "RAYBAN-SG-008",
+        "isMultiSizeAvailable": false,
+        "price": 130
+    },
+    {
+        "id": 9,
+        "name": "Yoga Mat",
+        "brand": "Lululemon",
+        "sku": "LULU-YM-009",
+        "isMultiSizeAvailable": false,
+        "price": 70
+    },
+    {
+        "id": 10,
+        "name": "Blender",
+        "brand": "NutriBullet",
+        "sku": "NUTRI-BL-010",
+        "isMultiSizeAvailable": true,
+        "price": 90
+    },
+    {
+        "id": 11,
+        "name": "Electric Kettle",
+        "brand": "Philips",
+        "sku": "PHILIPS-EK-011",
+        "isMultiSizeAvailable": true,
+        "price": 50
+    },
+    {
+        "id": 12,
+        "name": "Water Bottle",
+        "brand": "Hydro Flask",
+        "sku": "HYDRO-WB-012",
+        "isMultiSizeAvailable": false,
+        "price": 40
+    },
+    {
+        "id": 13,
+        "name": "Office Chair",
+        "brand": "Herman Miller",
+        "sku": "HM-OFC-013",
+        "isMultiSizeAvailable": false,
+        "price": 1200
+    },
+    {
+        "id": 14,
+        "name": "Desk Lamp",
+        "brand": "Ikea",
+        "sku": "IKEA-DL-014",
+        "isMultiSizeAvailable": false,
+        "price": 25
+    },
+    {
+        "id": 15,
+        "name": "Perfume",
+        "brand": "Chanel",
+        "sku": "CHANEL-PF-015",
+        "isMultiSizeAvailable": true,
+        "price": 150
+    },
+    {
+        "id": 16,
+        "name": "Sneakers",
+        "brand": "Puma",
+        "sku": "PUMA-SN-016",
+        "isMultiSizeAvailable": true,
+        "price": 80
+    },
+    {
+        "id": 17,
+        "name": "Tablet",
+        "brand": "Microsoft",
+        "sku": "MS-TB-017",
+        "isMultiSizeAvailable": false,
+        "price": 1200
+    },
+    {
+        "id": 18,
+        "name": "Electric Scooter",
+        "brand": "Segway",
+        "sku": "SEGWAY-ES-018",
+        "isMultiSizeAvailable": false,
+        "price": 500
+    },
+    {
+        "id": 19,
+        "name": "Headphones",
+        "brand": "Bose",
+        "sku": "BOSE-HP-019",
+        "isMultiSizeAvailable": true,
+        "price": 300
+    },
+    {
+        "id": 20,
+        "name": "Camera",
+        "brand": "Canon",
+        "sku": "CANON-CM-020",
+        "isMultiSizeAvailable": false,
+        "price": 1000
+    },
+    {
+        "id": 21,
+        "name": "Running Shorts",
+        "brand": "Reebok",
+        "sku": "REEBOK-RS-021",
+        "isMultiSizeAvailable": true,
+        "price": 45
+    },
+    {
+        "id": 22,
+        "name": "Gaming Console",
+        "brand": "Sony",
+        "sku": "SONY-GC-022",
+        "isMultiSizeAvailable": false,
+        "price": 500
+    },
+    {
+        "id": 23,
+        "name": "Smartwatch",
+        "brand": "Garmin",
+        "sku": "GARMIN-SW-023",
+        "isMultiSizeAvailable": true,
+        "price": 250
+    },
+    {
+        "id": 24,
+        "name": "Suitcase",
+        "brand": "American Tourister",
+        "sku": "AT-ST-024",
+        "isMultiSizeAvailable": false,
+        "price": 200
+    },
+    {
+        "id": 25,
+        "name": "Bluetooth Speaker",
+        "brand": "JBL",
+        "sku": "JBL-BS-025",
+        "isMultiSizeAvailable": false,
+        "price": 150
+    },
+    {
+        "id": 26,
+        "name": "Coffee Maker",
+        "brand": "Keurig",
+        "sku": "KEURIG-CM-026",
+        "isMultiSizeAvailable": true,
+        "price": 120
+    },
+    {
+        "id": 27,
+        "name": "Action Camera",
+        "brand": "GoPro",
+        "sku": "GOPRO-AC-027",
+        "isMultiSizeAvailable": false,
+        "price": 400
+    },
+    {
+        "id": 28,
+        "name": "Tennis Racket",
+        "brand": "Wilson",
+        "sku": "WILSON-TR-028",
+        "isMultiSizeAvailable": false,
+        "price": 150
+    },
+    {
+        "id": 29,
+        "name": "Jacket",
+        "brand": "North Face",
+        "sku": "NORTH-JK-029",
+        "isMultiSizeAvailable": true,
+        "price": 200
+    },
+    {
+        "id": 30,
+        "name": "Cycling Helmet",
+        "brand": "Giro",
+        "sku": "GIRO-CH-030",
+        "isMultiSizeAvailable": false,
+        "price": 60
+    }
+]
